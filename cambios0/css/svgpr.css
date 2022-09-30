@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+ }
+
+
+/* cambiar el color del body */
+body{
+/* background-color: #7868EE;  */
+display: flex;
+place-content: center center;
+
+}
+/* se centra el cointer a un 50 % y se centra */
+.container{
+width: 100%;
+
+}
+/* manejar el mapa en este caso colorear */
+.container path{
+/* fill: aquamarine; */
+stroke: black;
+stroke-width: 10px;
+}
+ /* para el espacio del carusel y odontograma */
+.row  {
+    margin-top: 0%;
+    padding-top: 0%;
+    display: flex;
+
+ }
+
+
+
+
+/* Pernite que al pasar el mouse las partes cambiend e color */
+ /* .container :hover{
+    fill: aliceblue;
+}  */
+/* #caja{
+    background-color: red;
+    margin:2rem;
+    padding: 2rem;
+    color:white;
+    font-size: 10px;
+    text-align: center;
+} */
