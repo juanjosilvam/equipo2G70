@@ -5,7 +5,18 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+.btnn{
+    /* display: flex;
+  flex-wrap:wrap ;  
+  justify-content: space-between; */
 
+  width: 20%;
+  padding: 0 1rem;
+  max-width: 1000px;
+/* 
+  margin-left: auto;
+  margin-right: auto; */
+}
 
 
 /* piede página */
